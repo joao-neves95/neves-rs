@@ -1,3 +1,3 @@
 pub mod constants;
-pub mod integer_math;
+pub mod math;
 pub mod slice;

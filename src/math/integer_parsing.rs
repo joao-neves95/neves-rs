@@ -1,3 +1,5 @@
+use super::integer_math::concat_u32;
+
 pub fn parse_u32_from_char_slice(source: &[char]) -> Option<u32> {
     let mut parsed_int = 0;
 
